@@ -15,7 +15,7 @@
 #theme = "ananke"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
-baseurl = "https://strensemble.gitlab.io/prelude/"
+baseurl = "https://strensemble.com/"
 title = "與爾 | StrEnsemble"
 contentdir    = "content"
 layoutdir     = "layouts"
